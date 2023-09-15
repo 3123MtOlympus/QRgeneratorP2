@@ -1,4 +1,4 @@
-# QRgenerator
+## QR Code Generator
 
 This is a simple QR code generator web application that allows you to generate QR codes for various types of data using HTML, CSS, and JavaScript, while utilizing the [QR Server API](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=).
 
